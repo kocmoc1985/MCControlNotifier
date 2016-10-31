@@ -1,0 +1,7 @@
+The only library needed is, Dont forget to put in "lib" folder:
+
+-> sqljdbc4.jar
+
+OBS TRY NOT TO USE!
+-> jtds-1.3.1.jar (i used this first and it worked at CP but not at WalterHausen on SQL2008 Server,
+ i think the Connection string should be different for jtds-1.3.1.jar when connecting to SQL2008)
