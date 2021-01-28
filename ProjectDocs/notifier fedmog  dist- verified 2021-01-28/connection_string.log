@@ -1,0 +1,12 @@
+[2021-01-28 10:39:22]   jdbc:jtds:sqlserver://134.238.85.237:1433;databaseName=MIXCONT;user=mixcont;password=mixcont
+[2021-01-28 10:39:43]   jdbc:jtds:sqlserver://134.238.85.237:1433;databaseName=MILLS;user=mc_mills;password=mixcont1
+[2021-01-28 11:04:50]   jdbc:jtds:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:04:51]   jdbc:jtds:sqlserver://10.4.188.9:1433;databaseName=MILLS;user=mc_mills;password=mixcont1
+[2021-01-28 11:17:03]   jdbc:jtds:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:17:03]   jdbc:jtds:sqlserver://10.4.188.9:1433;databaseName=;user=;password=
+[2021-01-28 11:18:49]   jdbc:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:18:50]   jdbc:sqlserver://10.4.188.9:1433;databaseName=;user=;password=
+[2021-01-28 11:19:53]   jdbc:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:19:54]   jdbc:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:22:08]   jdbc:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
+[2021-01-28 11:22:12]   jdbc:sqlserver://10.4.188.9:1433;databaseName=MIXCONT;user=mixcont;password=newmixcont
